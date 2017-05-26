@@ -1,0 +1,23 @@
+.container{
+  font-size: 50px;
+  height: 100px;
+  text-align: center;
+
+
+}
+.body{
+  background-color: grey;
+}
+
+h1{
+  text-align: center;
+}
+
+.image{
+  align-content: center;
+  margin:  0 auto;
+}
+.all{
+  color: black;
+
+}
